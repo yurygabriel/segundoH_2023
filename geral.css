@@ -1,0 +1,23 @@
+body {
+    background: rgb(0, 197, 16);
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  .CaixaPrincipal {
+    position: absolute;
+    width: 0%;
+    height: 45px;
+    background:rgb(0, 255, 13);
+    font-family: 'Courier New', Courier, monospace;
+    top: 0;
+    left: 0;
+  }
